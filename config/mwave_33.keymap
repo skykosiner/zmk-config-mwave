@@ -13,7 +13,6 @@
     #include "mwave_prim.dtsi"
 
         behaviors {
-        #include "macros.dtsi"
       #include "version.dtsi"
       #ifndef VERSION_MACRO
 
