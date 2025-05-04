@@ -164,7 +164,7 @@
 
             bindings = <
 &kp CAPSLOCK    &kp F1        &kp F2     &kp F3          &kp F4     &kp F5    &kp F6       &kp F7     &kp F8    &kp F9    &kp F10    &kp F11    &kp F12  &kp HOME   &kp END  &kp INSERT  &to 1
-&dgrave         &kp NUMBER_1  &lkp_n2    &lkp_n3         &lkp_n4    &akp_5    &ekp_n6      &rkp_n7    &rkp_n8   &rkp_n9   &skp_n0    &eprcnt    &pgrave  &kp BSPC
+&dgrave         &pkp_n1  &lkp_n2    &lkp_n3         &lkp_n4    &akp_5    &ekp_n6      &rkp_n7    &rkp_n8   &rkp_n9   &skp_n0    &eprcnt    &pgrave  &kp BSPC
 &kp TAB         &kp SEMI      &kp COMMA  &kp PERIOD      &kp P      &kp Y     &kp F        &kp G      &kp C     &kp R     &kp L      &kp SLASH  &acaret  &bhash     &kp DEL
 &kp ESCAPE      &kp A         &kp O      &kp E           &kp U      &kp I     &kp D        &kp H      &kp T     &kp N     &kp S      &kp MINUS  &kp RET  &kp PG_UP
 &kp LEFT_SHIFT  &kp SQT       &kp Q      &kp J           &kp K      &kp X     &kp B        &kp M      &kp W     &kp V     &kp Z      &kp RSHFT  &kp UP   &kp PG_DN
