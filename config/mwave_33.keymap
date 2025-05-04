@@ -24,7 +24,7 @@
             compatible = "zmk,behavior-mod-morph";
             label = "plus_kp_n1";
             #binding-cells = <0>;
-            bindings = <&kp PLUS>, <&kp N1>;
+            bindings = <&kp EQUAL>, <&kp N1>;
 
             mods = <(MOD_LSFT|MOD_RSFT)>;
         };
