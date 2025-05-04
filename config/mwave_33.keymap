@@ -13,16 +13,6 @@
     #include "mwave_prim.dtsi"
 
     behaviors {
-        hm: homerow_mods {
-            compatible = "zmk,behavior-hold-tap";
-            label = "HOMEROW_MODS";
-            #binding-cells = <2>;
-            tapping-term-ms = <250>;
-            quick-tap-ms = <120>;
-            flavor = "balanced";
-            bindings = <&kp>, <&kp>;
-        };
-
         pgrave: pipe_grave {
             compatible = "zmk,behavior-mod-morph";
             label = "pipe_grave";
