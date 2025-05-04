@@ -193,7 +193,7 @@
 &kp TAB         &kp SEMI  &kp COMMA       &kp PERIOD  &kp P     &kp Y        &kp F      &kp G     &kp C     &kp R      &kp L      &kp SLASH  &acaret    &bhash      &kp DEL
 &kp ESCAPE      &kp A     &kp O           &kp E       &kp U     &kp I        &kp H      &kp T T   &kp N     &kp S      &kp MINUS  &kp RET    &kp PG_UP  &kp LSHIFT
 &kp LEFT_SHIFT  &kp SQT   &kp Q           &kp J       &kp K     &kp X        &kp B      &kp M     &kp W     &kp V      &kp Z      &kp RSHFT &kp UP     &kp PG_DN
-&kp LGUI        &kp LALT  &kp LEFT_SHIFT  &kp SPACE   &kp RALT  &kp K_CMENU  &kp RCTRL  &kp LEFT  &kp DOWN  &kp RIGHT
+&kp LCTRL &kp LGUI  &kp LALT  &kp LEFT_SHIFT  &kp SPACE   &kp RALT  &kp K_CMENU  &kp RCTRL  &kp LEFT  &kp DOWN  &kp RIGHT
             >;
         };
 
