@@ -1,0 +1,7 @@
+modules/
+needed.json
+zephyr/
+MWave-zephyr-module/
+zmk/
+zmk-settings-reset-bootloader-module/
+.west/
